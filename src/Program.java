@@ -2,7 +2,7 @@
  * @author Oleg Beloglazov
  * @version 1.0.2026
  */
-// Это класс Main
+// Это класс syntax.Main
 public class Program {
     // Метод main - это точка входа в программу
     public static void main(String[] args) {
